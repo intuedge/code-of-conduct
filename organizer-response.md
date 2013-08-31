@@ -36,9 +36,9 @@ Simply say "Thanks, this sounds like a breach of our anti-harassment policy. I a
 
 Follow the instructions above and let them know that you will be collaborating with a volunteer counselor to figure out an appropriate response.
 
-Do NOT:
+Do not:
 
-* Overtly invite them to withdraw the complaint or mention that withdrawal is OK: this suggests that you want them to do so, and is therefore coercive. 
+* Invite them to withdraw the complaint or mention that withdrawal is OK: this suggests that you want them to do so, and is therefore coercive. 
 * Ask for their advice on how to deal with the complaint: this is our responsibility
 * Offer them input into the response: this is our responsibility
 
@@ -66,4 +66,4 @@ Additional contacts:
 * ...
 * Bridge Foundry Leadership
 
-Adapted from http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports
+Adapted from [GeekFeminism wiki: Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)
